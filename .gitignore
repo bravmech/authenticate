@@ -1,2 +1,7 @@
 db.sqlite3
+
 settings.py
+
+*.sublime-project
+*.sublime-settings
+*.sublime-workspace
